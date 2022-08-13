@@ -1,1 +1,79 @@
 This is meant for gitfile2.txt
+-am This is meant fore gitfile2
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   gitfile2.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.bash_history
+	.bash_logout
+	.bash_profile
+	.bashrc
+	.cache/
+	.gitconfig
+	.ssh/
+	MGTuser.sh
+	acada.txt
+	allen/
+	assgnmnt2a.sh
+	chelsea.sh
+	cohort_8/gitfile1.txt
+	cohort_8/gitfile2.txt
+	cohort_8/gitfile3.txt
+	decrease.sh
+	decrese.sh
+	efe/
+	fintech/
+	fn1.sh
+	footie.sh
+	for.sh
+	for2.sh
+	for3.sh
+	goodluck
+	goodman.txt
+	goodsoft
+	hardlink
+	hello1.sh
+	hello2.sh
+	hello3.sh
+	hello4.sh
+	hortons.txt
+	if.sh
+	if2.sh
+	if3.sh
+	if4.sh
+	joboffer.txt
+	log.txt
+	log10.txt
+	package.sh
+	package2.sh
+	prac.sh
+	rasheed.txt
+	rasheed1.txt
+	rashtec/
+	softlink
+	switcftball.sh
+	switchcasefootie.sh
+	switchfootie.sh
+	test.sh
+	test1.sh
+	test1234.java
+	user.txt
+	userfn.sh
+	var.sh
+	var1.sh
+	var2.sh
+	var3.sh
+	var4.sh
+	var6.sh
+	var7.sh
+	wale/
+	while2.sh
+
+no changes added to commit (use "git add" and/or "git commit -a")
