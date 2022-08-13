@@ -1,7 +1,24 @@
 This is meant for gitfile2.txt
+I want to attempt pulling directly from repo
+
+
+
+
+
+
+
+
+
+
+
 -am This is meant fore gitfile2
 On branch main
 Your branch is ahead of 'origin/main' by 1 commit.
+
+
+
+
+
   (use "git push" to publish your local commits)
 
 Changes not staged for commit:
